@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 # RS-Gitbucket
 
 **現状: プレースホルダー(2026-07-23時点でコード未着手)**。
